@@ -1,0 +1,27 @@
+body {
+    background: #ff000000;
+    background: -moz-radial-gradient(bottom right, ellipse cover, #bd7b00, #cc5200);
+    background: -webkit-linear-gradient(bottom right, #bd7b00, #cc5200);
+    background: -o-linear-gradient(top, #bd7b00, #cc5200);
+    background: -ms-linear-gradient(top, #bd7b00, #cc5200);
+
+    border: 1px solid #333;
+    width: 1790px;
+}
+.cat1{
+    width: 600px;
+}
+.line1{
+    color: red;
+    background-color: red;
+    height: 2px;
+}
+.roboto1{
+    font-family: 'Roboto', sans-serif;
+}
+.roboto2{
+    font-family: 'Roboto', sans-serif;
+    color:rgb(0, 0, 0);
+    width: 1200px;
+    text-indent: 25px;
+}
